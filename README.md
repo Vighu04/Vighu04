@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vighu04
+- 👋 Hi, I’m Vighnesh
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on ...
